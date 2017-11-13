@@ -1,9 +1,4 @@
-    /* CSS by: UndeadCorpse */
-/* L.P. transparent theme Version: 2.0 */
-
-/*nothing to see here*/
-
-@import url("https://rawgit.com/SomeRandomFuck/source/master/wm.css");
+@import url("https://rawgit.com/Paulius001/PLUGAS/master/wap.ccs");
 
 
 .icon-room { 
