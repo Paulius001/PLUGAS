@@ -277,7 +277,7 @@ i.bdg.bdg-rave-o02.o{
 
 /* Paulius */
 
-[data-cid^="24372101"] .msg .from .un {
+[data-cid^="24372101-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left: 18px;
