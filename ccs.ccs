@@ -272,17 +272,3 @@ i.bdg.bdg-rave-o02.o{
         background-image:       url('http://i.imgur.com/LDKHuAk.gif');
         background-size:        cover;
 }
-
-/*** Icons ***/
-
-/* Paulius */
-
-[data-cid^="24372101-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left: 18px;
-    background-image: url('http://i.imgur.com/rF0Eq0j.png');
-    background-repeat: no-repeat;
-    background-position: -1px center;
-    background-size: 15px auto;
-}
